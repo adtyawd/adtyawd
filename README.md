@@ -12,8 +12,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="15" />
@@ -47,8 +45,6 @@
 <h2 align="center">Find Another Me On</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/adtyawd/" target="_blank">
